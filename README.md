@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer who is always learning</h3>
 <img align="right" alt="Coding" width="400" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
-- 🔭 I’m currently working on my VideoGame [Harmonious Journeys]((not available yet))
+- 🔭 I’m currently working on my VideoGame [Harmonious Journeys](https://discord.gg/ZC5spqJwbj)
 
 - 🌱 I’m currently learning **Mainly Python, Java ,C**
 
