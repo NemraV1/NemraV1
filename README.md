@@ -1,5 +1,5 @@
 ![MasterHead](https://64.media.tumblr.com/1e1ca1e770436c9549752d1e438e1eee/ef443435a0905e95-a3/s2048x3072/96964fcb422dc7c93f98fedbac69e643f03c1e1b.gif)
-<h1 align="center">Hi 👋, I'm Nemra</h1>
+<h1 align="center">Hi 👋, I'm Armen</h1>
 <h3 align="center">A passionate developer who is always learning</h3>
 <img align="right" alt="Coding" width="400" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
